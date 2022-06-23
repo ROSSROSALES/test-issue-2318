@@ -1,3 +1,9 @@
+[react/jsx-one-expression-per-line] moves text to the beginning of line
+#2318
+
+Utilizing code for testing/example purposes.
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
